@@ -109,7 +109,7 @@
   PIN:  24   Port: A7        TEMP_0_PIN                  protected
   PIN:  25   Port: A6        TEMP_BED_PIN                protected
   PIN:  26   Port: A5        Z_ENABLE_PIN                protected
-  PIN:  27   Port: A4        BEEPER_PIN                  Output = 0
+  PIN:  -1   Port: A4        BEEPER_PIN                  Output = 0
   PIN:  28   Port: A3        LCD_PINS_RS                 Output = 0
   PIN:  29   Port: A2        <unused/unknown>            Input  = 0
   PIN:  30   Port: A1        LCD_PINS_D4                 Output = 1
